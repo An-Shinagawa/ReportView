@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SelectActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">GraphActivity</string>
+    <string name="go_graph">Go!GraphActivity</string>
+    <string name="go_select">Go!SelectActivity</string>
+</resources>
