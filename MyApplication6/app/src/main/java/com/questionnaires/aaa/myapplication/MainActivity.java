@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
         public void onClick(View v) {
             //Sub 画面を起動
+            Integer imath = 1;
 
             switch (v.getId()){
                 case R.id.btnDisp:
